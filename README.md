@@ -18,7 +18,7 @@ However, I expect that this repo and its materials will also be useful more gene
 
 # What you can do with it
 
-Since I built a virtual environment for this repo in binder, all you have to do is push this button! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Virtual_Environments/HEAD?labpath=https%3A%2F%2Fgithub.com%2FUKDataServiceOpen%2FVirtual_Environments%2Fblob%2Fmain%2FInteractive_Code_Notebook.ipynb)
+Since I built a virtual environment for this repo in binder, all you have to do is push this button! Fill in the fields to see the markdown badge snippet. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Virtual_Environments/main)
 
 It should launch a virtual environment in a new tab in your browser. This will allow you to open the jupyter notebook (the file that ends in .ipynb) and run the code cells inside it **without needing to install python or jupyter notebook**! How exciting is that?!?
 
