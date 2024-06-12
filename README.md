@@ -16,6 +16,12 @@ That presentation was titled **Reproducibile statistics: jupyter notebooks, gith
 
 However, I expect that this repo and its materials will also be useful more generally as small, quick-to-load demonstrations of the component parts. For example, it is quite useful to show people who work in teaching how easy it can be to make virtual environments while those who work collaboratively may want an easy way to see how version control logs show edit history. 
 
+# What you can do with it
+
+Since I built a virtual environment for this repo in binder, all you have to do is push this button! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/Virtual_Environments/HEAD?labpath=https%3A%2F%2Fgithub.com%2FUKDataServiceOpen%2FVirtual_Environments%2Fblob%2Fmain%2FInteractive_Code_Notebook.ipynb)
+
+It should launch a virtual environment in a new tab in your browser. This will allow you to open the jupyter notebook (the file that ends in .ipynb) and run the code cells inside it **without needing to install python or jupyter notebook**! How exciting is that?!?
+
 # The data
 The data is the [Super Heroes Dataset from kaggle](https://www.kaggle.com/datasets/claudiodavi/superhero-set?resource=download) and is used under the CC0: Public Domain license. 
 
